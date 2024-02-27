@@ -190,4 +190,4 @@ Thank you for reading.
 # CREDITS
 
 Author: VeryChubbyCats
-Note: Thank you for reading this. I thought I could help people easily figure out how to use GTK with VS Code sense to be honest people are not so great and respectful when helping other user's.
+Note: Thank you for reading this. I thought I could help people figure out how to use GTK with VS Code sense to be honest people are not so great and respectful when helping other user's.
