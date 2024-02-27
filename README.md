@@ -1,7 +1,7 @@
 # Fix-GTk3-GTK4
 Here are some of my methods to fixing GTK3 and GTK4 With VS code.
 
-# GTK4-DEVEL WITH VS-CODE
+# GTK4 WITH VS-CODE
 
 If you are using the c/c++ extension in vs code you will be required to include the following directories into your c_cpp_properties.json <strong>INSIDE OF THE INCLUDEPATH TABLE!<strong/>
 
@@ -70,6 +70,8 @@ Here's a full example.
 </pre>
 
 The code above goes inside of the <strong>c_cpp_properties.json<strong/>
+
+# GTK3 WITH VS-CODE
 
 <strong>FOR GTK3 ONLY! SCROLL UP TO SEE GTK4<strong/>
 
@@ -145,6 +147,8 @@ Here's a full example.
 }
 </pre>
 
+# COMPILING
+
 I recommend using a <strong>Makefile<strong/> to compile GTK easily without any problem's with extension's. It's easier to use GCC or G++ in order to compile the C/C++ file.
 
 Here's how to compile the C/CPP file correctly. <strong>THIS IS ONLY FOR GTK4!<strong/>
@@ -182,6 +186,8 @@ I recommend using the <strong>echo<strong/> command to <strong>echo<strong/> the
 </pre>
 
 Thank you for reading.
+
+# CREDITS
 
 Author: VeryChubbyCats
 Note: Thank you for reading this. I thought I could help people easily figure out how to use GTK with VS Code sense to be honest people are not so great and respectful when helping other user's.
