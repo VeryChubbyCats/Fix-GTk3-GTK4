@@ -9,24 +9,24 @@ If you are using the c/c++ extension in vs code you will be required to include 
 
 <strong>Directories: <strong/>
 <pre>
-  "${workspaceFolder}/**",
-  "/usr/include/gtk-4.0/**",
-  "/usr/include/pango-1.0/**",
-  "/usr/include/gdk-pixbuf-2.0/**",
-  "/usr/include/cairo/**",
-  "/usr/include/graphene-1.0/**",
-  "/usr/lib64/graphene-1.0/include/**",
-  "/usr/include/harfbuzz/**",
-  "/usr/include/glib-2.0/**",
-  "/usr/lib64/glib-2.0/include/**",
-  "/usr/include/freetype2/**",
-  "/usr/include/blkid/**",
-  "/usr/include/pixman-1/**",
-  "/usr/include/libmount/**",
-  "/usr/include/fribidi/**",
-  "/usr/include/libxml2/**",
-  "/usr/include/sysprof-6/**",\
-  "/usr/include/libpng16/**"
+"${workspaceFolder}/**",
+"/usr/include/gtk-4.0/**",
+"/usr/include/pango-1.0/**",
+"/usr/include/gdk-pixbuf-2.0/**",
+"/usr/include/cairo/**",
+"/usr/include/graphene-1.0/**",
+"/usr/lib64/graphene-1.0/include/**",
+"/usr/include/harfbuzz/**",
+"/usr/include/glib-2.0/**",
+"/usr/lib64/glib-2.0/include/**",
+"/usr/include/freetype2/**",
+"/usr/include/blkid/**",
+"/usr/include/pixman-1/**",
+"/usr/include/libmount/**",
+"/usr/include/fribidi/**",
+"/usr/include/libxml2/**",
+"/usr/include/sysprof-6/**",\
+"/usr/include/libpng16/**"
 </pre>
 Place the directories listed above inside of the <strong>INCLUDEPATH TABLE!<strong/>
 
